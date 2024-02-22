@@ -5,3 +5,5 @@
 .box {border: 0; position:relative; display: inline-block;text-align: center;}
 .overlay {position: absolute;left: 0;top: 0;border-radius: 23px;width:46px;height: 46px;}
 .url {height: 20px;line-height: 20px; margin: 0 auto; white-space: nowrap; overflow: hidden;text-overflow: ellipsis;-o-text-overflow: ellipsis;-ms-text-overflow: ellipsis;color: #d5d5d5;font-size: 10px;}//链接文字颜色/*链接文字颜色*/
+.flex-row{margin-left:-1rem;margin-right:-1rem}
+.flex-row{display:flex;flex-direction:row;flex-wrap:wrap}
